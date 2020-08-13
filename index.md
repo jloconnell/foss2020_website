@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## This is my FOSS 2020 test website
 
 You can use the [editor on GitHub](https://github.com/jloconnell/foss2020_website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
